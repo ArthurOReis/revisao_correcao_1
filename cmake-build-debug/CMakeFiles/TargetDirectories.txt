@@ -1,0 +1,3 @@
+C:/Users/Arthur/CLionProjects/revisao_correcao/cmake-build-debug/CMakeFiles/revisao_correcao.dir
+C:/Users/Arthur/CLionProjects/revisao_correcao/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arthur/CLionProjects/revisao_correcao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
